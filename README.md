@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RCShoemaker
-- 👀 I’m interested in automation, powershell, and smart homes!
+- 👀 I’m interested in automation, powershell, scalability in I.T. Support and smart homes!
 - 🌱 I’m currently learning more powershell!
 
 <!---
